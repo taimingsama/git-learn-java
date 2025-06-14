@@ -8,5 +8,7 @@ public class Program
         System.out.println("yellow");
         System.out.println("pink");
         System.out.println("Four");
+        var teacher = new TeacherInfo(1, "John Doe");
+        System.out.println(teacher);
     }
 }
