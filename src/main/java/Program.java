@@ -3,7 +3,7 @@ public class Program
     public static void main(String[] args)
     {
         System.out.println("Hello World!");
-        System.out.println("yellow");
+        System.out.println("red");
         System.out.println("pink");
     }
 }
