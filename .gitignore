@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### My ###
+/src/main/resources/sb老板.txt
