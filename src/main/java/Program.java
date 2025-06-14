@@ -6,5 +6,8 @@ public class Program
         System.out.println("red");
         System.out.println("blue");
         System.out.println("Hello TaiMing!");
+        System.out.println("One");
+        System.out.println("Two");
+        System.out.println("Three");
     }
 }
