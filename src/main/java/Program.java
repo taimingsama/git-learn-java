@@ -7,5 +7,6 @@ public class Program
         System.out.println("white");
         System.out.println("yellow");
         System.out.println("pink");
+        System.out.println("Four");
     }
 }
