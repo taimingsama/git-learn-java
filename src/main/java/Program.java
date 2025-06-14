@@ -5,5 +5,7 @@ public class Program
         System.out.println("Hello World!");
         System.out.println("black");
         System.out.println("white");
+        System.out.println("yellow");
+        System.out.println("pink");
     }
 }
